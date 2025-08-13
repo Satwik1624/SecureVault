@@ -1,6 +1,8 @@
 # 🔐 SecureVault
 
 A modern, secure digital vault system built with Python Flask that allows users to store and retrieve files with military-grade encryption.
+<img width="1362" height="640" alt="image" src="https://github.com/user-attachments/assets/255b60fc-4e7b-4af7-b711-112daf931f5d" />
+
 
 ## ✨ Features
 
@@ -14,6 +16,11 @@ A modern, secure digital vault system built with Python Flask that allows users 
   - Individual user directories for complete data isolation
 - **📱 Responsive Design**: Works perfectly on desktop and mobile
 - **☁️ Easy Deployment**: Ready-to-deploy with multiple hosting options
+
+<img width="1073" height="645" alt="image" src="https://github.com/user-attachments/assets/4f8f6ad7-09a6-4553-879a-97fa67787577" />
+<img width="1047" height="641" alt="image" src="https://github.com/user-attachments/assets/e43eb86a-6da5-456a-b251-b80170a97562" />
+
+
 
 ## 🚀 Quick Start
 
@@ -74,10 +81,14 @@ heroku open
 ### Light Mode
 - Clean, modern interface with gradient backgrounds
 - Intuitive file management with card-based layout
+<img width="1365" height="642" alt="image" src="https://github.com/user-attachments/assets/435b73fe-666a-427a-bd9f-af04b93607a9" />
+
 
 ### Dark Mode
 - Eye-friendly dark theme with smooth transitions
 - Consistent design language across all pages
+<img width="1362" height="640" alt="image" src="https://github.com/user-attachments/assets/d3daf404-e09e-4f2f-be3a-109e630b162c" />
+
 
 ## 🤝 Contributing
 
